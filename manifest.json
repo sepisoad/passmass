@@ -29,11 +29,6 @@
     "128": "images/passmass_128.png"
   },
   // firefox
-  "browser_action": {
-    "default_icon": "images/passmass_32.png",
-    "default_title": "PassMass",
-    "default_popup": "popup.html"
-  },
   "applications": {
     "gecko": {
       "id": "sepehr.aryani@gmail.com",

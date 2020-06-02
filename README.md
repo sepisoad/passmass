@@ -4,7 +4,7 @@
 
 a storage less password manager extension for chrome and firefox
 
-android and ios mobile apps are comming soon
+android and ios apps are comming soon
 
 for this project i used a free icon from [flaticon.com](https://www.flaticon.com/free-icon/tickets_2959814?term=pass&page=1&position=9)
 
@@ -44,6 +44,8 @@ for this project i used a free icon from [flaticon.com](https://www.flaticon.com
 
 
 ### firefox: (todo)
+	
+	download it from official firefox addons website [passmass](https://addons.mozilla.org/en-US/firefox/addon/passmass/)
 
 ### android: (todo)
 
