@@ -14,3 +14,37 @@ for this project i used a free icon from [flaticon.com](https://www.flaticon.com
 ![b](screenshots/b.png)
 ![c](screenshots/c.png)
 ![d](screenshots/d.png)
+
+## How to use
+
+### chrome:
+
+#### solution one:
+
+	1) clone this repo
+
+	2) open chrome extensions
+
+	3) enable developer mode
+
+	4) click on load unpacked
+
+	5) located the clone repo folder and done
+
+
+#### solution two:
+
+	1) clone this repo
+
+	2) inside the repo locate 'chrome' folder
+
+	4) open chrome extensions
+
+	3) drag the passmass.crx file into chrome extensions and done
+
+
+### firefox: (todo)
+
+### android: (todo)
+
+### iso: (todo)
