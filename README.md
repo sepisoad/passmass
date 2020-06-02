@@ -43,7 +43,7 @@ for this project i used a free icon from [flaticon.com](https://www.flaticon.com
 	3) drag the passmass.crx file into chrome extensions and done
 
 
-### firefox: (todo)
+### firefox:
 
 download it from official firefox addons website [passmass](https://addons.mozilla.org/en-US/firefox/addon/passmass/)
 
