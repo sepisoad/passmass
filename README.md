@@ -1,4 +1,4 @@
-# passmass
+# ![a](images/passmass_128.png) passmass
 
 a storage less password manager extension for chrome
 
