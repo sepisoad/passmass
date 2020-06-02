@@ -17,13 +17,34 @@
       </header>
       <div class="row">
         <div class="col">
-          <h5 class="bg-light" id="input-text-message"> </h5>
+          <h5 class="bg-light text-primary" id="input-text-message"> </h5>
+          <h5 class="bg-light text-error" id="input-error-message"> </h5>
         </div>
       </div>
 
       <footer class="is-left">
-        <a class="button primary" id="button-generate-password">copy password</a>
+        <a class="button primary" id="button-generate-password">copy password</a>    
       </footer>
+
+      <!--  -->
+      <footer class="is-left">
+        <details style="padding-top: 5px;">
+          <summary>options</summary>
+          <div class="row">
+            <div class="col">
+              <p>please set your master passphrase below</p>
+              <input type="password" id="input-passphrase">
+            </div>
+          </div>          
+          <div class="row">
+            <div class="col">
+              <a class="button primary" id="button-update-passphrase">set passphrase</a>
+            </div>
+          </div>          
+        </details>
+      </footer>      
+      <!--  -->
+
     </div>    
     <!--  -->
     
