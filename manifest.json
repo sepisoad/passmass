@@ -1,7 +1,8 @@
 {
   "name": "PassMass",
   "author": "Sepehr Aryani",
-  
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/sepisoad/passmass",
   "version": "0.1",
   "description": "storage less password manager",
   "permissions": ["<all_urls>", "clipboard", "activeTab", "declarativeContent", "storage"],  
@@ -22,10 +23,21 @@
   },  
   "icons": {
     "16": "images/passmass_16.png",
-      "24": "images/passmass_24.png",
-      "32": "images/passmass_32.png",
-      "64": "images/passmass_64.png",
-      "128": "images/passmass_128.png"
+    "24": "images/passmass_24.png",
+    "32": "images/passmass_32.png",
+    "64": "images/passmass_64.png",
+    "128": "images/passmass_128.png"
   },
-  "manifest_version": 2
+  // firefox
+  "browser_action": {
+    "default_icon": "images/passmass_32.png",
+    "default_title": "PassMass",
+    "default_popup": "popup.html"
+  },
+  "applications": {
+    "gecko": {
+      "id": "sepehr.aryani@gmail.com",
+      "strict_min_version": "53.0"
+    }
+  }
 }

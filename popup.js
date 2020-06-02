@@ -15,10 +15,11 @@ let inputPassphrase = document.getElementById('input-passphrase');
 let hostNname = "";
 
 chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-  let activeTab = tabs[0];
-  let url = new URL(activeTab.url);
+  let activeTab = tabs[0];  
+  let url = new URL(activeTab.url);  
   hostNname = url.hostname
   labelDomain.innerText = hostNname;
+  logger.log(hostNname)
 });
 
 function setMessageBox(msg) {	
