@@ -49,6 +49,6 @@ for this project i used a free icon from [flaticon.com](https://www.flaticon.com
 download it from official firefox addons website [passmass](https://addons.mozilla.org/en-US/firefox/addon/passmass/)
 
 
-### android: (todo)
+### android/ios: 
 
-### iso: (todo)
+get it from [here](https://github.com/sepisoad/passmass-flutter) 
