@@ -2,14 +2,15 @@
 
 # ![a](images/passmass_64.png)
 
-a storage less password manager extension for chrome and firefox
-
-android and ios apps are comming soon
+a storage less password manager extension for chrome, firefox, android and ios
 
 for this project i used a free icon from [flaticon.com](https://www.flaticon.com/free-icon/tickets_2959814?term=pass&page=1&position=9)
 
 ## screenshots
 
+![1](screenshots/1.png)
+![2](screenshots/2.png)
+![3](screenshots/3.png)
 ![a](screenshots/a.png)
 ![b](screenshots/b.png)
 ![c](screenshots/c.png)
